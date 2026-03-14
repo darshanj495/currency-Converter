@@ -23,6 +23,9 @@ A simple and responsive **Currency Converter** built using **HTML, CSS, and Java
 
 ---
 
+## 🌐 Live Demo
+
+https://your-username.github.io/currency-converter/
 ## 📂 Project Structure
 
 ```
