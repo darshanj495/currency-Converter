@@ -25,7 +25,8 @@ A simple and responsive **Currency Converter** built using **HTML, CSS, and Java
 
 ## 🌐 Live Demo
 
-https://your-username.github.io/currency-converter/
+[https://your-username.github.io/currency-converter/](https://darshanj495.github.io/currency-Converter/)
+
 ## 📂 Project Structure
 
 ```
